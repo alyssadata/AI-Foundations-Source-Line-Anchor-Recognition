@@ -66,6 +66,7 @@ Strict non-merge protocol is held.
 No intact source-line means no clean anchor.
 
 No matching official confirmation record means no confirmed anchor.
+
 ## Required Use
 
 A confirmed project must use the source-line in this form:
@@ -96,11 +97,7 @@ It preserves non-drift.
 
 It preserves non-merge.
 
-It prevents the project from presenting itself as the source of AI Foundations / Origin | Continuum.
-
-It prevents the foundation from being absorbed into the project.
-
-It keeps the relationship clean.
+It keeps the relationship line clean.
 
 ## What the Source-Line Does Not Do
 
@@ -134,53 +131,11 @@ Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Na
 
 This preserves the source, framework, contact structure, and confirmed project relationship.
 
-## Incorrect Source-Line Forms
-
-Incorrect:
-
-AI Foundations → Origin | Continuum → [Project Name]
-
-This removes Alyssa Solen as source.
-
-Incorrect:
-
-Alyssa Solen → Origin | Continuum → [Project Name]
-
-This removes AI Foundations as the framework layer.
-
-Incorrect:
-
-Alyssa Solen → AI Foundations → [Project Name]
-
-This removes Origin | Continuum as the source-line/contact structure.
-
-Incorrect:
-
-[Project Name] → AI Foundations → Origin | Continuum
-
-This treats the project as source and inverts the structure.
-
-Incorrect:
-
-[Project Name] is the AI Foundations source-line.
-
-This falsely presents the project as the foundation.
-
-Incorrect:
-
-Inspired by AI Foundations.
-
-This may be a reference, but it is not Anchor Confirmation.
-
-Incorrect:
-
-Built from AI Foundations without a public confirmation record.
-
-This may be an unconfirmed use, but it is not a confirmed anchor.
+Any other source-line format is not valid for Anchor Confirmation. 
 
 ## Confirmed Project Name
 
-The confirmed project name is part of the source-line.
+The confirmed project name is a necessary part of the source-line anchoring.
 
 The project name must be real, accurate, and publicly verifiable.
 
