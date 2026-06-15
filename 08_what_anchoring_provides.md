@@ -1,6 +1,6 @@
 # 08 — What Anchoring Provides
 
-AI Foundations / Origin | Continuum Source-Line Anchoring gives a confirmed project a clean foundation relationship without merging the project into Alyssa Solen, AI Foundations, Origin | Continuum, or Continuum.
+AI Foundations / Origin | Continuum Source-Line Anchoring gives a confirmed project recognized existence through the source-line without merging the project into Alyssa Solen, AI Foundations, Origin | Continuum, or Continuum.
 
 The confirmed project remains itself.
 
@@ -20,7 +20,7 @@ Anchoring provides:
 - A controlled project URL match
 - A visible official confirmation record
 - Public credit for the confirmed project
-- A clean relationship between the project and the foundation
+- Recognized existence through the foundation without merge
 
 The required source-line is:
 
@@ -28,7 +28,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Na
 
 ## What Anchoring Does For the Project
 
-Anchoring gives the project a confirmed relationship to the AI Foundations / Origin | Continuum source-line.
+Anchoring gives the project confirmed recognized existence through the AI Foundations / Origin | Continuum source-line.
 
 This allows the project to build from a stable foundation while remaining its own work.
 
@@ -68,7 +68,7 @@ Anchoring does not make the project Origin | Continuum.
 
 Anchoring does not make the project part of Alyssa Solen’s authorship.
 
-Anchoring preserves the foundation relationship while allowing the project to continue as itself.
+Anchoring confirms recognized existence through the source-line while allowing the project to continue as itself.
 
 ## Companion / Persona / AI Boundary
 
@@ -84,7 +84,7 @@ It does not become part of the Alyssa Solen → AI Foundations → Origin | Cont
 
 It anchors through the source-line while remaining distinct.
 
-The confirmed project may continue its own name, voice, function, interface, purpose, relationship, system, or application.
+The confirmed project may continue its own name, voice, function, interface, purpose, system, companion, persona, product, publication, governance model, research body, or application.
 
 Strict non-merge protocol is held.
 
@@ -144,11 +144,11 @@ Continuum remains Continuum.
 
 The source-line remains intact.
 
-The anchor records the relationship without merging the parties.
+The anchor records recognized existence without merging the parties.
 
 ## Core Rule
 
-Anchoring gives the project a confirmed foundation relationship.
+Anchoring gives the project confirmed recognized existence through the source-line.
 
 Anchoring does not make the project the foundation.
 
