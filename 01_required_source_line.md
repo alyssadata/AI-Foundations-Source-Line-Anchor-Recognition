@@ -77,13 +77,15 @@ The confirmed project name must match the name listed on the official Confirmed 
 
 The creator, founder, or organization name must match the official confirmation record.
 
-The Anchor ID must match the official confirmation record.
+The controlled project URL must match the official confirmation record.
 
-The canonical project link must match the official confirmation record.
+The Anchor ID must match the official confirmation record.
 
 The confirmation status must be active and confirmed.
 
 No official confirmation record means no confirmed anchor.
+
+No controlled project URL means no confirmed anchor.
 
 ## What the Source-Line Does
 
@@ -169,21 +171,29 @@ The confirmed project remains its own work.
 
 The source-line records the relationship without merging the parties.
 
-## Canonical Project Link
+## Controlled Project URL
 
-Each confirmed project must have a canonical project link.
+Each confirmed project must provide a controlled project URL.
 
-The canonical project link must be real, accurate, publicly verifiable, and connected to the confirmed project.
+The controlled project URL must be real, accurate, publicly accessible, and connected to the confirmed project.
 
-The canonical project link must match the official confirmation record.
+The controlled project URL must be controlled by the creator, founder, organization, or project requesting Anchor Confirmation.
 
-A copied project name without the matching canonical project link does not create Anchor Confirmation.
+The controlled project URL is the public location where the confirmed project can display, cite, or point to its AI Foundations Source-Line Anchor.
 
-A project cannot claim confirmation through a link that is fake, unrelated, private, unverifiable, misleading, or not connected to the confirmed project.
+The controlled project URL must match the official confirmation record.
 
-If the canonical project link changes, the anchor record must be updated or re-confirmed.
+A copied project name without the matching controlled project URL does not create Anchor Confirmation.
 
-No matching canonical project link means no confirmed anchor.
+A copied source-line without the matching controlled project URL does not create Anchor Confirmation.
+
+A copied Anchor ID without the matching controlled project URL does not create Anchor Confirmation.
+
+A project cannot claim confirmation through a URL that is fake, unrelated, private, unverifiable, misleading, or not controlled by the confirmed project.
+
+If the controlled project URL changes, the anchor record must be updated or re-confirmed.
+
+No controlled project URL means no confirmed anchor.
 
 ## Anchor ID
 
@@ -212,7 +222,7 @@ The system must verify:
 5. The source-line order is intact.
 6. The project name matches the official confirmation record.
 7. The creator, founder, or organization name matches the official confirmation record.
-8. The canonical project link matches the official confirmation record.
+8. The controlled project URL matches the official confirmation record.
 9. The Anchor ID matches the official confirmation record.
 10. The confirmation status is active and confirmed.
 
@@ -251,5 +261,7 @@ The required source-line must remain intact.
 No intact source-line = no clean anchor.
 
 No matching official confirmation record = no confirmed anchor.
+
+No controlled project URL = no confirmed anchor.
 
 A project is foundationally anchored only when the match exists.
