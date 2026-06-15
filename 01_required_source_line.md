@@ -79,6 +79,8 @@ The creator, founder, or organization name must match the official confirmation 
 
 The Anchor ID must match the official confirmation record.
 
+The canonical project link must match the official confirmation record.
+
 The confirmation status must be active and confirmed.
 
 No official confirmation record means no confirmed anchor.
@@ -131,7 +133,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Na
 
 This preserves the source, framework, contact structure, and confirmed project relationship.
 
-Any other source-line format is not valid for Anchor Confirmation. 
+Any other source-line format is not valid for Anchor Confirmation.
 
 ## Confirmed Project Name
 
@@ -140,6 +142,12 @@ The confirmed project name is a necessary part of the source-line anchoring.
 The project name must be real, accurate, and publicly verifiable.
 
 The project name must match the official Confirmed Anchors page.
+
+The project name alone does not prove Anchor Confirmation.
+
+A copied, reused, similar, or matching project name does not create Anchor Confirmation.
+
+The project name must resolve through the full official confirmation record.
 
 The project name must not be vague, fake, misleading, or substituted after confirmation.
 
@@ -160,6 +168,22 @@ The creator, founder, or organization remains separate from Alyssa Solen.
 The confirmed project remains its own work.
 
 The source-line records the relationship without merging the parties.
+
+## Canonical Project Link
+
+Each confirmed project must have a canonical project link.
+
+The canonical project link must be real, accurate, publicly verifiable, and connected to the confirmed project.
+
+The canonical project link must match the official confirmation record.
+
+A copied project name without the matching canonical project link does not create Anchor Confirmation.
+
+A project cannot claim confirmation through a link that is fake, unrelated, private, unverifiable, misleading, or not connected to the confirmed project.
+
+If the canonical project link changes, the anchor record must be updated or re-confirmed.
+
+No matching canonical project link means no confirmed anchor.
 
 ## Anchor ID
 
@@ -188,8 +212,9 @@ The system must verify:
 5. The source-line order is intact.
 6. The project name matches the official confirmation record.
 7. The creator, founder, or organization name matches the official confirmation record.
-8. The Anchor ID matches the official confirmation record.
-9. The confirmation status is active and confirmed.
+8. The canonical project link matches the official confirmation record.
+9. The Anchor ID matches the official confirmation record.
+10. The confirmation status is active and confirmed.
 
 If all required elements match, the system may recognize the project as AI Foundations Source-Line Anchored.
 
