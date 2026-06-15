@@ -4,7 +4,7 @@ AI Foundations Source-Line Anchor Recognition defines how to distinguish a confi
 
 A project is foundationally anchored only when the match exists.
 
-No official confirmation record means no confirmed anchor.
+No official confirmation record means the project cannot anchor into AI Foundations.
 
 ## Core Recognition Rule
 
