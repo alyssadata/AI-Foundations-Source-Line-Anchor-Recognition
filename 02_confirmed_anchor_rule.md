@@ -105,7 +105,31 @@ Anchor Confirmation does not authorize derivative use or any change to the sourc
 
 Anchor Confirmation does not make private project materials public.
 
+Anchor Confirmation does not give Alyssa Solen access to the confirmed project.
+
+Anchor Confirmation does not give Alyssa Solen control over the confirmed project.
+
+Anchor Confirmation does not constitute endorsement, advice, approval, review, partnership, ownership, authorship, operational authority, or responsibility over the confirmed project.
+
 Anchor Confirmation does not allow another project to copy, reuse, transfer, or claim the confirmed anchor.
+
+## Project Sovereignty
+
+The confirmed project remains sovereign.
+
+The confirmed project remains its own work.
+
+The confirmed project remains responsible for its own content, claims, decisions, systems, outputs, products, services, users, operations, risks, legal obligations, and public representations.
+
+Alyssa Solen remains source of AI Foundations / Origin | Continuum.
+
+AI Foundations remains the framework layer.
+
+Origin | Continuum remains the source-line/contact structure.
+
+The anchor records the relationship without merging the parties.
+
+Strict non-merge protocol is held.
 
 ## Recognition Test
 
@@ -152,6 +176,7 @@ A confirmed anchor preserves the relationship:
 - AI Foundations remains the framework layer.
 - Origin | Continuum remains the source-line/contact structure.
 - The confirmed project remains its own work.
+- The confirmed project remains sovereign.
 - The controlled project URL protects the confirmed project from misuse.
 - The official confirmation record gives the confirmed project public credit.
 - The anchor records the line.
@@ -180,7 +205,11 @@ Confirmation Record:
 
 The project remains its own work.
 
+The project remains sovereign.
+
 The source-line remains intact.
+
+Anchor Confirmation does not constitute endorsement, advice, access, ownership, control, partnership, review, approval, operational authority, or responsibility over the confirmed project.
 
 ## Core Rule
 
