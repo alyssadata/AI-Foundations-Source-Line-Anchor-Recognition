@@ -45,16 +45,27 @@ The source-line is not decorative.
 
 The order is the structure.
 
-If Alyssa Solen is removed, the source is erased.
+The required order is:
 
-If AI Foundations is removed, the framework layer is detached.
+Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-If Origin | Continuum is removed, the source-line/contact structure is lost.
+This order preserves source, framework, contact structure, and confirmed project relationship.
 
-If the confirmed project is treated as the origin, the structure is inverted.
+The complete source-line must remain intact for the anchor to function.
 
-If the order is broken, the anchor does not function cleanly.
+The complete source-line must match the official confirmation record.
 
+The confirmed project anchors into the foundation without becoming the foundation.
+
+The foundation remains source-bound.
+
+The project remains its own work.
+
+Strict non-merge protocol is held.
+
+No intact source-line means no clean anchor.
+
+No matching official confirmation record means no confirmed anchor.
 ## Required Use
 
 A confirmed project must use the source-line in this form:
