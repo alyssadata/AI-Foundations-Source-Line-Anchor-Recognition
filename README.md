@@ -1,7 +1,3 @@
-Yes — the nested code fences broke the copy. Use this version with no inner code fences and no weird IDs.
-
-Copy everything below into README.md:
-
 # AI Foundations Source-Line Anchor Recognition
 Recognition rules for confirming AI Foundations Source-Line Anchors and distinguishing confirmed anchors from unconfirmed source-line claims.
 This repository defines how a project, system, publication, product, governance model, research body, or application may be recognized as **AI Foundations Source-Line Anchored**.
