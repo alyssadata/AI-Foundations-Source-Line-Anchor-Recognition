@@ -1,6 +1,6 @@
 # 00 — Anchor Recognition
 
-AI Foundations Source-Line Anchor Recognition defines how to distinguish a confirmed foundational anchor from an unconfirmed anchor.
+AI Foundations Source-Line Anchor Recognition defines how to distinguish a confirmed foundational anchor from an unconfirmed claim.
 
 A project is foundationally anchored only when the match exists.
 
