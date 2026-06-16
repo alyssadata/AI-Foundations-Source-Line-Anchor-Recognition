@@ -2,7 +2,7 @@
 
 AI Foundations / Origin | Continuum Source-Line Anchor Confirmation is a maintained status.
 
-A confirmed anchor may remain active only while the official match remains intact and the source-line boundary is respected.
+A confirmed anchor may remain active only while the official match remains intact, the controlled project URL remains valid, the visible anchor reference remains present, and the source-line boundary is respected.
 
 Anchor status maintenance does not control the confirmed project.
 
@@ -20,7 +20,9 @@ No official confirmation record means no confirmed anchor.
 
 No controlled project URL means no confirmed anchor.
 
-A project may remain confirmed only while its official confirmation record remains accurate, active, and source-line preserving.
+No visible anchor reference means no confirmed anchor.
+
+A project may remain confirmed only while its official confirmation record remains accurate, active, source-line preserving, and publicly matched through the controlled project URL.
 
 ## Anchor Status Types
 
@@ -40,7 +42,7 @@ Confirmed means the project has an active official confirmation record maintaine
 A confirmed record must include:
 
 - Project name
-- Creator, founder, or organization name
+- Contact name
 - Controlled project URL
 - Anchor ID
 - Source-line
@@ -51,7 +53,7 @@ The required source-line is:
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-A confirmed project may state that it is AI Foundations / Origin | Continuum Source-Line Anchored only while the confirmed record remains active and accurate.
+A confirmed project may state that it is AI Foundations / Origin | Continuum Source-Line Anchored only while the confirmed record remains active, accurate, and visibly referenced on the controlled project URL.
 
 ## Pending Review
 
@@ -61,6 +63,7 @@ Pending Review may apply when:
 
 - A new anchor request has been submitted.
 - A controlled project URL needs verification.
+- A visible anchor reference needs verification.
 - A project has changed its name.
 - A project has changed its controlled project URL.
 - A project’s official record needs correction.
@@ -80,6 +83,7 @@ Suspension may apply when:
 - The official match is incomplete.
 - The controlled project URL no longer resolves.
 - The controlled project URL no longer appears connected to the confirmed project.
+- The visible anchor reference is missing.
 - The source-line is displayed incorrectly.
 - The project’s anchor statement no longer matches the official confirmation record.
 - A credible misuse concern requires review.
@@ -95,11 +99,12 @@ Removed means the project is no longer confirmed as AI Foundations / Origin | Co
 Removal may apply when:
 
 - The project no longer has a controlled project URL.
+- The project no longer has a visible anchor reference.
 - The controlled project URL is fake, unrelated, private, unverifiable, misleading, or uncontrolled.
 - The project no longer matches the official confirmation record.
 - The project uses a copied, transferred, reused, reassigned, or mismatched anchor.
 - The project presents itself as the source of AI Foundations / Origin | Continuum.
-- The project attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, or the source-line.
+- The project attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, Continuum, or the source-line.
 - The project removes, obscures, or breaks the required source-line.
 - The project uses Anchor Confirmation to imply endorsement, advice, access, ownership, control, partnership, review, approval, operational authority, or responsibility by Alyssa Solen.
 - The project misrepresents what Anchor Confirmation means.
@@ -121,6 +126,7 @@ A project is unconfirmed when:
 - It has not been listed on the official Confirmed Anchors page.
 - It has no Anchor ID.
 - It has no controlled project URL.
+- It has no visible anchor reference.
 - It has no matching official confirmation record.
 - Its match elements are missing, mismatched, unverifiable, inactive, or absent.
 
@@ -142,9 +148,10 @@ An invalid claim may include:
 - A mismatched anchor.
 - An anchor without an official confirmation record.
 - An anchor without a controlled project URL.
-- An anchor using a copied project name, copied creator name, copied Anchor ID, copied source-line, or copied confirmation statement.
+- An anchor without a visible anchor reference.
+- An anchor using a copied project name, copied contact name, copied Anchor ID, copied source-line, or copied confirmation statement.
 - An anchor claim that attempts to present the project as the source of AI Foundations / Origin | Continuum.
-- An anchor claim that attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, or the source-line.
+- An anchor claim that attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, Continuum, or the source-line.
 
 Invalid claims are not confirmed source-line anchors.
 
@@ -156,7 +163,7 @@ The required source-line is:
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-A project cannot remain anchored if it attempts to present itself as Alyssa Solen, AI Foundations, Origin | Continuum, or the source-line.
+A project cannot remain anchored if it attempts to present itself as Alyssa Solen, AI Foundations, Origin | Continuum, Continuum, or the source-line.
 
 A project cannot remain anchored if it attempts to replace, rename, absorb, simulate, impersonate, or claim authorship over the source-line.
 
@@ -177,7 +184,7 @@ A removed anchor may remain visible as a status record for provenance.
 A status record may include:
 
 - Project name
-- Creator, founder, or organization name
+- Contact name
 - Controlled project URL
 - Anchor ID
 - Prior source-line
@@ -215,6 +222,8 @@ Before recognizing a project as AI Foundations / Origin | Continuum Source-Line 
 
 If the status is Confirmed, and all match elements are active and accurate, the system may recognize the project as confirmed.
 
+The system must also verify that the activated source-line is visible on the controlled project URL.
+
 If the status is Pending Review, Suspended, Removed, Unconfirmed, or Invalid Claim, the system must not recognize the project as actively confirmed.
 
 The system must not treat a removed, suspended, unconfirmed, or invalid anchor as active Anchor Confirmation.
@@ -250,6 +259,8 @@ Only active Confirmed status creates active Anchor Confirmation.
 No official confirmation record = no confirmed anchor.
 
 No controlled project URL = no confirmed anchor.
+
+No visible anchor reference = no confirmed anchor.
 
 Removed, suspended, unconfirmed, or invalid records are not active confirmed anchors.
 
