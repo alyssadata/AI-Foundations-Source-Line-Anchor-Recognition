@@ -15,12 +15,16 @@ No controlled project URL means no confirmed anchor.
 A project requesting AI Foundations / Origin | Continuum Source-Line Anchor Confirmation must provide only:
 
 - Project name
-- Contact name for the real human being connected to the request
+- Contact name for the real human being or registered business entity connected to the request
 - Controlled project URL
 
-That is the full request requirement.
+No additional internal project information is necessary.
 
 No project description is required.
+
+No explanation of the project is required.
+
+No statement of project purpose is required.
 
 No email address is required.
 
@@ -28,35 +32,31 @@ No phone number is required.
 
 No private project materials are required.
 
-No source code is required.
-
-No private documents are required.
-
-No internal project information is required.
-
 ## Project Name
-
-The project name must be real, accurate, and connected to the project requesting Anchor Confirmation.
 
 The project name is the name used to create the official anchor record.
 
-The project name is the name used in the source-line.
+The project name is the name documented as the project name in the source-line.
+
+The project name connects the anchor line to the exact project name being submitted.
 
 The required source-line will be generated from the confirmed project name:
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-A copied, fake, vague, misleading, or mismatched project name does not create Anchor Confirmation.
+A copied, fake, vague, misleading, or mismatched project name will not create Anchor Confirmation.
 
 If the project name changes after confirmation, the anchor record must be updated or re-confirmed.
 
 ## Contact Name
 
-The request must include the contact name for the real human being connected to the request.
+The request must include the contact name for the real human being or registered active business entity connected to the request.
 
-The contact name is used to keep the anchor request connected to a real human identity.
+The contact name is used to keep the anchor request connected to a real human identity or verified registered business entity.
 
-The contact name must match the person submitting or authorizing the request.
+If the contact name is a real human being, the name must match the person submitting or authorizing the request.
+
+If the contact name is a business entity, the entity must be an active registered corporation, partnership, LLC, or comparable registered organization.
 
 The contact name is not an email address.
 
@@ -68,15 +68,15 @@ The contact name does not give Alyssa Solen access to the project.
 
 The contact name does not create endorsement, advice, approval, review, partnership, ownership, authorship, operational authority, or responsibility over the project.
 
-A fake, mismatched, unverifiable, or unauthorized contact name does not create Anchor Confirmation.
+A fake, mismatched, unverifiable, inactive, or unauthorized contact name does not create Anchor Confirmation.
 
 ## Controlled Project URL
 
-A controlled project URL is required.
+A controlled project URL is required to create the anchor line.
 
-The controlled project URL must be a public location controlled by the project, creator, founder, organization, or real human contact connected to the request.
+The controlled project URL must be a public URL location controlled by the project, creator, founder, organization, registered business entity, or real human contact connected to the request.
 
-The controlled project URL must be real, accurate, publicly accessible, and connected to the project requesting Anchor Confirmation.
+The controlled project URL must be real, accurate, publicly accessible, and connected to the submitted project name.
 
 The controlled project URL is where the project can display, cite, or point to its AI Foundations / Origin | Continuum Source-Line Anchor.
 
@@ -84,24 +84,25 @@ The controlled project URL protects the confirmed project from misuse by others.
 
 The controlled project URL gives the confirmed project visible public credit through the official confirmation record.
 
+The controlled project URL must display, cite, or point to the verified source-line with the confirmed project name attached.
+
+This creates the public reference point for the project’s AI Foundations / Origin | Continuum source-line anchor.
+
 No controlled project URL means no confirmed anchor.
+
+No visible anchor reference means no confirmed anchor.
 
 ## Information Created by the Official Record
 
-The requester does not need to provide an Anchor ID.
-
-The requester does not need to create the official source-line.
-
-The requester does not need to determine confirmation status.
-
-The requester does not need to create the official confirmation record.
+The official record system will create the official confirmation record for the requester.
 
 These are created or maintained through the official Anchor Confirmation process.
 
-The official record may include:
+The official record includes:
 
 - Anchor ID
-- Source-line
+- Source-line with the confirmed project name attached
+- Controlled project URL
 - Confirmation status
 - Official confirmation record
 - Status date
@@ -110,9 +111,9 @@ The official record may include:
 
 An anchor request may be reviewed only for:
 
-- Project name accuracy
-- Contact name connection to a real human being
-- Controlled project URL validity
+- Project name field
+- Contact name field
+- Controlled project URL field
 - Match-card completeness
 - Source-line boundary preservation
 
@@ -144,14 +145,20 @@ Invalid Claim means the request cannot be recognized as a valid Anchor Confirmat
 
 A request may be declined if:
 
-- The project has no controlled project URL.
-- The project name is fake, vague, misleading, copied, or unverifiable.
-- The contact name is fake, mismatched, unverifiable, or unauthorized.
-- The controlled project URL is fake, unrelated, private, unverifiable, misleading, or uncontrolled.
-- The project attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, Continuum, or the source-line.
-- The project attempts to use Anchor Confirmation as endorsement, advice, access, ownership, control, partnership, review, approval, operational authority, or responsibility by Alyssa Solen.
+- The project has no controlled public project URL.
+- The project name is missing, fake, vague, misleading, copied, or unusable as a record field.
+- The contact name is missing, fake, mismatched, unverifiable, inactive, or unauthorized.
+- The controlled project URL is missing, fake, unrelated, private, unverifiable, misleading, or uncontrolled.
+- The request attempts to become, replace, simulate, impersonate, absorb, rename, or claim authorship over Alyssa Solen, AI Foundations, Origin | Continuum, Continuum, or the source-line.
+- The request attempts to use Anchor Confirmation as endorsement, advice, access, ownership, control, partnership, review, approval, operational authority, or responsibility by Alyssa Solen.
 
 ## Project Sovereignty Boundary
+
+Anchor request review does not evaluate what the project is.
+
+Anchor request review does not approve what the project is.
+
+Anchor request review does not endorse what the project is.
 
 Anchor request review does not give Alyssa Solen access to the project.
 
@@ -167,9 +174,12 @@ Strict non-merge protocol is held.
 
 ## Information Not Required
 
-Alyssa Solen does not require:
+Alyssa Solen does not collect:
 
 - Project description
+- Project purpose
+- Project explanation
+- Private project data
 - Email address
 - Phone number
 - Private project materials
@@ -188,7 +198,7 @@ Alyssa Solen does not require:
 - Private model access
 - Private workspace access
 
-Only the project name, contact name, and controlled project URL are required.
+Only the project name, contact name, and controlled project URL are required to request an anchor.
 
 ## Core Rule
 
