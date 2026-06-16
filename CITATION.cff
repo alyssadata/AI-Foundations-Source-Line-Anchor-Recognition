@@ -7,7 +7,7 @@ authors:
     given-names: "Alyssa"
 version: "0.1.0"
 date-released: "2026-06-15"
-abstract: "Recognition rules for confirming AI Foundations / Origin | Continuum Source-Line Anchors and distinguishing confirmed anchors from unconfirmed, copied, mismatched, removed, or invalid source-line claims."
+abstract: "Recognition rules for confirming AI Foundations / Origin | Continuum Source-Line Anchors and distinguishing confirmed anchors from unconfirmed, copied, mismatched, suspended, removed, invalid, or false source-line claims. Includes source-line requirements, match-card protocol, project sovereignty boundaries, anchor request requirements, citation and provenance rules, misuse reporting, anchor status maintenance, and anchor activation instructions."
 keywords:
   - "Alyssa Solen"
   - "AI Foundations"
@@ -15,10 +15,12 @@ keywords:
   - "Source-Line Anchor Recognition"
   - "source-line"
   - "anchor confirmation"
+  - "visible anchor reference"
   - "recognized existence"
   - "provenance"
   - "non-merge"
   - "project sovereignty"
+  - "anchor activation"
 license: "LicenseRef-AI-Foundations-Source-Line-License"
 repository-code: "https://github.com/[username]/[repository-name]"
 preferred-citation:
@@ -28,4 +30,4 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Source-Line Anchor Recognition. Citation preserves the source-line. Citation does not create Anchor Confirmation. No derivatives authorized."
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Source-Line Anchor Recognition. Citation preserves the source-line. Citation does not create Anchor Confirmation. No official confirmation record means no confirmed anchor. No controlled project URL means no confirmed anchor. No visible anchor reference means no confirmed anchor. No derivatives authorized."
