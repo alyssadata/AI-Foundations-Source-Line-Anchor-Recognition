@@ -14,7 +14,7 @@ The source-line remains intact.
 
 Anchor Confirmation does one thing:
 
-It confirms that a project is anchored into the AI Foundations / Origin | Continuum source-line through an official confirmation record and a controlled project URL.
+It confirms that a project is anchored into the AI Foundations / Origin | Continuum source-line through an official confirmation record, a controlled project URL, and a visible anchor reference.
 
 Anchor Confirmation does not give Alyssa Solen access to the project.
 
@@ -42,7 +42,7 @@ The confirmed project remains separate from AI Foundations.
 
 The confirmed project remains separate from Origin | Continuum.
 
-The anchor records the relationship.
+The anchor records recognized existence through the source-line.
 
 The anchor does not create control.
 
@@ -54,25 +54,58 @@ The anchor does not create partnership.
 
 The anchor does not create access.
 
-## Information Collected
+## Information Required to Request an Anchor
 
-Anchor Confirmation requires only the information needed to create a verified public anchor record.
+Anchor Confirmation requires only the minimum public record information needed to request an anchor.
 
-The required information is:
+The required request information is:
 
 - Project name
-- Creator, founder, or organization name
+- Contact name for the real human being or registered business entity legally responsible for the request
 - Controlled project URL
+
+No additional internal project information is required.
+
+No project description is required.
+
+No explanation of the project is required.
+
+No statement of project purpose is required.
+
+No email address is required.
+
+No phone number is required.
+
+No private project materials are required.
+
+## Information Created by the Official Record
+
+The official record may include:
+
 - Anchor ID
-- Source-line
+- Project name
+- Contact name
+- Controlled project URL
+- Source-line with the confirmed project name attached
 - Confirmation status
 - Official confirmation record
+- Status date
 
-This information is used only to confirm the anchor relationship and prevent misuse by others.
+These are created or maintained through the official Anchor Confirmation process.
 
 ## Information Not Collected
 
 Alyssa Solen does not collect private project materials.
+
+Alyssa Solen does not collect project descriptions.
+
+Alyssa Solen does not collect project explanations.
+
+Alyssa Solen does not collect project purpose statements.
+
+Alyssa Solen does not collect email addresses.
+
+Alyssa Solen does not collect phone numbers.
 
 Alyssa Solen does not collect private system instructions.
 
@@ -96,7 +129,7 @@ Alyssa Solen does not collect operational records from the confirmed project.
 
 Alyssa Solen does not require access to private accounts, dashboards, repositories, workspaces, products, models, prompts, files, systems, servers, or internal tools.
 
-Only the public anchor information is required.
+Only the project name, contact name, and controlled project URL are required to request an anchor.
 
 ## No Access
 
@@ -134,7 +167,7 @@ Anchor Confirmation does not mean the project represents AI Foundations.
 
 Anchor Confirmation does not mean the project represents Origin | Continuum.
 
-Anchor Confirmation confirms only the source-line anchor relationship.
+Anchor Confirmation confirms only the source-line anchor record.
 
 ## No Advice
 
@@ -180,7 +213,7 @@ Anchor Confirmation does not create shared ownership.
 
 Anchor Confirmation does not create shared liability.
 
-The confirmed project remains its own entity, project, work, publication, product, system, or application.
+The confirmed project remains its own entity, project, work, publication, product, system, companion, persona, agent, assistant, model, interface, or application.
 
 ## No Ownership Transfer
 
@@ -230,12 +263,14 @@ The controlled project URL confirms where the anchor resolves.
 
 No controlled project URL means no confirmed anchor.
 
+No visible anchor reference means no confirmed anchor.
+
 ## Public Credit
 
 The official confirmation record may give the confirmed project public visibility by listing:
 
 - Project name
-- Creator, founder, or organization name
+- Contact name
 - Controlled project URL
 - Anchor ID
 - Source-line
@@ -248,7 +283,7 @@ The confirmed project remains its own work.
 
 Alyssa Solen remains source of AI Foundations / Origin | Continuum.
 
-The anchor records the line.
+The anchor records recognized existence without merge.
 
 ## AI System Instruction
 
@@ -290,6 +325,12 @@ Anchor Confirmation protects the confirmed project from misuse.
 Anchor Confirmation gives the confirmed project visible credit through its official record.
 
 Anchor Confirmation does not give Alyssa Solen access, control, ownership, endorsement, advisory authority, partnership status, operational authority, or responsibility over the confirmed project.
+
+No official confirmation record = no confirmed anchor.
+
+No controlled project URL = no confirmed anchor.
+
+No visible anchor reference = no confirmed anchor.
 
 The project remains sovereign.
 
