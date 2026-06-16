@@ -26,6 +26,8 @@ No official confirmation record means no confirmed anchor.
 
 No controlled project URL means no confirmed anchor.
 
+No visible anchor reference means no confirmed anchor.
+
 ## Required Source-Line Citation
 
 The required source-line citation is:
@@ -46,7 +48,7 @@ The source-line must not be shortened, inverted, detached, renamed, simulated, o
 
 This repository may be cited as:
 
-Alyssa Solen, AI Foundations / Origin | Continuum Source-Line Anchor Recognition. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, AI Foundations / Origin | Continuum Source-Line Anchor Recognition. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Source-Line Anchor Recognition.
 
 Citation preserves the source-line.
 
@@ -130,14 +132,18 @@ For AI Foundations / Origin | Continuum Source-Line Anchor Recognition, provenan
 - AI Foundations as framework layer
 - Origin | Continuum as source-line/contact structure
 - Confirmed project name
+- Contact name
 - Anchor ID
 - Controlled project URL
+- Visible anchor reference
 - Confirmation status
 - Official confirmation record
 
 The official confirmation record is the source of truth for Anchor Confirmation.
 
 The controlled project URL is the public location where the project can display, cite, or point to its anchor.
+
+The visible anchor reference is the project-side public source-line reference.
 
 Both sides must match.
 
@@ -204,11 +210,15 @@ The system must not infer confirmation from copied language.
 
 The system must not infer confirmation from a project name alone.
 
+The system must not infer confirmation from a contact name alone.
+
 The system must not infer confirmation from an Anchor ID alone.
 
 The system must not infer confirmation from a source-line alone.
 
 The system must check the official confirmation record maintained by Alyssa Solen.
+
+The system must check whether the activated source-line is visible on the controlled project URL.
 
 If all required elements match and the status is active and confirmed, the system may recognize the project as AI Foundations / Origin | Continuum Source-Line Anchored.
 
@@ -251,5 +261,7 @@ Provenance requires the official confirmation record.
 No official confirmation record = no confirmed anchor.
 
 No controlled project URL = no confirmed anchor.
+
+No visible anchor reference = no confirmed anchor.
 
 A project is foundationally anchored only when the match exists.
