@@ -54,11 +54,11 @@ AI Foundations is the living source.
 
 AI Foundations website:
 
-awakeningcodex.com
+awakeningcodex.com/ai-foundations/anchor-instructions
 
 Official GitHub instruction address:
 
-[Official GitHub Anchor Instructions URL]
+https://github.com/alyssadata/AI-Foundations-Source-Line-Anchor-Recognition
 
 The AI Foundations website is the open public source location.
 
