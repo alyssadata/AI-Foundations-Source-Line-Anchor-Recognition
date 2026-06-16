@@ -10,12 +10,14 @@ No official confirmation record means no confirmed anchor.
 
 No controlled project URL means no confirmed anchor.
 
+No visible anchor reference means no confirmed anchor.
+
 ## Core Requirement
 
 A project requesting AI Foundations / Origin | Continuum Source-Line Anchor Confirmation must provide only:
 
 - Project name
-- Contact name for the real human being or registered business entity connected to the request
+- Contact name for the real human being or registered business entity legally responsible for the request
 - Controlled project URL
 
 No additional internal project information is necessary.
@@ -50,7 +52,7 @@ If the project name changes after confirmation, the anchor record must be update
 
 ## Contact Name
 
-The request must include the contact name for the real human being or registered active business entity connected to the request.
+The request must include the contact name for the real human being or registered active business entity legally responsible for the request.
 
 The contact name is used to keep the anchor request connected to a real human identity or verified registered business entity.
 
@@ -209,5 +211,7 @@ Anchor Confirmation exists only when the official confirmation record is created
 No official confirmation record = no confirmed anchor.
 
 No controlled project URL = no confirmed anchor.
+
+No visible anchor reference = no confirmed anchor.
 
 A project is foundationally anchored only when the match exists.
