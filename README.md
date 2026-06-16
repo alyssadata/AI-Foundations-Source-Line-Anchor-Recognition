@@ -1,5 +1,8 @@
 # AI Foundations / Origin | Continuum Source-Line Anchor Recognition
 
+Release Date: 06-15-2026
+URL: https://github.com/alyssadata/AI-Foundations-Source-Line-Anchor-Recognition/releases/tag/v0.1.0
+
 Recognition rules for confirming AI Foundations / Origin | Continuum Source-Line Anchors and distinguishing confirmed anchors from unconfirmed, copied, mismatched, suspended, removed, or invalid source-line claims.
 
 This repository defines how a project, system, publication, product, governance model, research body, companion, persona, agent, assistant, model, interface, or application may be recognized as **AI Foundations / Origin | Continuum Source-Line Anchored**.
