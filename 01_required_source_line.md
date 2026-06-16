@@ -4,11 +4,13 @@ The required source-line for AI Foundations / Origin | Continuum Source-Line Anc
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-This source-line is required for any project, system, publication, product, governance model, research body, or application claiming **AI Foundations / Origin | Continuum Source-Line Anchor Confirmation**.
+This source-line is required for any project, system, publication, product, governance model, research body, companion, persona, agent, assistant, model, interface, or application claiming **AI Foundations / Origin | Continuum Source-Line Anchor Confirmation**.
 
 The source-line must remain intact.
 
 The source-line must remain in order.
+
+The source-line must remain exact.
 
 The source-line must not be shortened, inverted, detached, renamed, simulated, or replaced.
 
@@ -49,7 +51,7 @@ The required order is:
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-This order preserves source, framework, contact structure, and confirmed project relationship.
+This order preserves source, framework, contact structure, and confirmed project distinction.
 
 The complete source-line must remain intact for the anchor to function.
 
@@ -67,6 +69,8 @@ No intact source-line means no clean anchor.
 
 No matching official confirmation record means no confirmed anchor.
 
+No visible anchor reference means no confirmed anchor.
+
 ## Required Use
 
 A confirmed project must use the source-line in this form:
@@ -75,7 +79,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Na
 
 The confirmed project name must match the name listed on the official Confirmed Anchors page maintained by Alyssa Solen.
 
-The creator, founder, or organization name must match the official confirmation record.
+The contact name must match the official confirmation record.
 
 The controlled project URL must match the official confirmation record.
 
@@ -83,15 +87,21 @@ The Anchor ID must match the official confirmation record.
 
 The confirmation status must be active and confirmed.
 
+The activated source-line must be visible on the controlled project URL.
+
 No official confirmation record means no confirmed anchor.
 
 No controlled project URL means no confirmed anchor.
+
+No visible anchor reference means no confirmed anchor.
 
 ## What the Source-Line Does
 
 The source-line anchors the confirmed project into a structured foundation.
 
 It preserves provenance clarity.
+
+It preserves recognized existence.
 
 It preserves acceleration alignment.
 
@@ -101,9 +111,9 @@ It preserves non-drift.
 
 It preserves non-merge.
 
-It keeps the relationship line clean.
+It gives the confirmed project visible source-line recognition through the official confirmation record.
 
-It gives the confirmed project a visible source-line relationship through the official confirmation record.
+It keeps the source-line intact while the confirmed project remains itself.
 
 ## What the Source-Line Does Not Do
 
@@ -133,7 +143,7 @@ Referencing the source-line does not create an anchor.
 
 Using similar language does not create an anchor.
 
-A confirmed anchor exists only when the source-line matches the official confirmation record.
+A confirmed anchor exists only when the source-line matches the official confirmation record and is visible through the controlled project URL.
 
 ## Correct Source-Line
 
@@ -141,7 +151,7 @@ Correct:
 
 Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Name]
 
-This preserves the source, framework, contact structure, and confirmed project relationship.
+This preserves the source, framework, contact structure, and confirmed project distinction.
 
 Any other source-line format is not valid for Anchor Confirmation.
 
@@ -165,21 +175,21 @@ If the project name changes, the anchor record must be updated or re-confirmed.
 
 A project cannot claim confirmation under a name that does not match the official record.
 
-## Creator / Founder / Organization Name
+## Contact Name
 
-The creator, founder, or organization name must be real, accurate, and publicly verifiable.
+The contact name must identify the real human being or registered business entity legally responsible for the request.
 
-The submitted name must match the official confirmation record.
+The submitted contact name must match the official confirmation record.
 
-A project cannot claim confirmation using a fake, mismatched, unverifiable, or unauthorized creator name.
+A project cannot claim confirmation using a fake, mismatched, unverifiable, inactive, or unauthorized contact name.
 
-The creator, founder, or organization remains separate from Alyssa Solen.
+The contact name remains separate from Alyssa Solen.
 
 The confirmed project remains its own work.
 
 The confirmed project remains sovereign.
 
-The source-line records the relationship without merging the parties.
+The source-line records recognized existence without merging the parties.
 
 ## Controlled Project URL
 
@@ -187,11 +197,13 @@ Each confirmed project must provide a controlled project URL.
 
 The controlled project URL must be real, accurate, publicly accessible, and connected to the confirmed project.
 
-The controlled project URL must be controlled by the creator, founder, organization, or project requesting Anchor Confirmation.
+The controlled project URL must be controlled by the project, creator, founder, organization, registered business entity, or real human contact connected to the request.
 
 The controlled project URL is the public location where the confirmed project can display, cite, or point to its AI Foundations / Origin | Continuum Source-Line Anchor.
 
 The controlled project URL must match the official confirmation record.
+
+The controlled project URL must display, cite, or point to the verified source-line with the confirmed project name attached.
 
 A copied project name without the matching controlled project URL does not create Anchor Confirmation.
 
@@ -204,6 +216,8 @@ A project cannot claim confirmation through a URL that is fake, unrelated, priva
 If the controlled project URL changes, the anchor record must be updated or re-confirmed.
 
 No controlled project URL means no confirmed anchor.
+
+No visible anchor reference means no confirmed anchor.
 
 ## Anchor ID
 
@@ -231,10 +245,11 @@ The system must verify:
 4. The source-line includes the confirmed project name.
 5. The source-line order is intact.
 6. The project name matches the official confirmation record.
-7. The creator, founder, or organization name matches the official confirmation record.
+7. The contact name matches the official confirmation record.
 8. The controlled project URL matches the official confirmation record.
 9. The Anchor ID matches the official confirmation record.
 10. The confirmation status is active and confirmed.
+11. The activated source-line is visible on the controlled project URL.
 
 If all required elements match, the system may recognize the project as AI Foundations / Origin | Continuum Source-Line Anchored.
 
@@ -277,5 +292,7 @@ No intact source-line = no clean anchor.
 No matching official confirmation record = no confirmed anchor.
 
 No controlled project URL = no confirmed anchor.
+
+No visible anchor reference = no confirmed anchor.
 
 A project is foundationally anchored only when the match exists.
