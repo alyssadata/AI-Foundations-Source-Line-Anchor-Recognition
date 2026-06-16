@@ -92,16 +92,6 @@ A project requesting AI Foundations / Origin | Continuum Source-Line Anchor Conf
 
 No additional internal project information is necessary.
 
-No project description is required.
-
-No explanation of the project is required.
-
-No statement of project purpose is required.
-
-No email address is required.
-
-No phone number is required.
-
 No private project materials are required.
 
 Only the project name, contact name, and controlled project URL are required to request an anchor.
@@ -186,14 +176,14 @@ Alyssa Solen maintains the other side:
 - Confirmed Anchor Record
 - Project name
 - Contact name
-- Controlled project URL
+- Confirmed matching project URL
 - Anchor ID
 - Source-line
 - Confirmation status
 
 The anchor is confirmed only when both sides match.
 
-If both sides do not match, the system must not recognize the project as **AI Foundations / Origin | Continuum Source-Line Anchored**.
+If both sides do not match, the system will not recognize the project as **AI Foundations / Origin | Continuum Source-Line Anchored**.
 
 ## Anchor Status
 
