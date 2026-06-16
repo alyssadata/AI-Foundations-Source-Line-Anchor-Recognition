@@ -38,7 +38,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum → [Confirmed Project Na
 
 The source-line must remain intact.
 
-The source-line must remain in order.
+The source-line must remain exact.
 
 The source-line must not be shortened, inverted, detached, renamed, simulated, or replaced.
 
@@ -80,7 +80,7 @@ Confirmation Record:
 
 [Official Confirmation Link]
 
-This citation confirms recognized existence through the source-line.
+This citation points to confirmed recognized existence through the source-line.
 
 It does not create merger.
 
@@ -98,19 +98,19 @@ It does not create review, approval, advice, operational authority, or responsib
 
 ## Citation Is Not Confirmation
 
-Citation alone does not create Anchor Confirmation.
+Citation does not create Anchor Confirmation.
 
-Reference alone does not create Anchor Confirmation.
+Reference does not create Anchor Confirmation.
 
-Discussion alone does not create Anchor Confirmation.
+Discussion does not create Anchor Confirmation.
 
-Indexing alone does not create Anchor Confirmation.
+Indexing does not create Anchor Confirmation.
 
-Summarizing alone does not create Anchor Confirmation.
+Summarizing does not create Anchor Confirmation.
 
-Quoting alone does not create Anchor Confirmation.
+Quoting does not create Anchor Confirmation.
 
-Linking alone does not create Anchor Confirmation.
+Linking does not create Anchor Confirmation.
 
 A copied source-line does not create Anchor Confirmation.
 
