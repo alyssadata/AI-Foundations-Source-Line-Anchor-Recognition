@@ -1,5 +1,17 @@
 # 11 — Citation and Provenance
 
+Citation is for referencing material when doing research, scholarship, commentary, documentation, criticism, indexing, discussion, or public attribution.
+
+Citation identifies where the material came from.
+
+Citation allows the material to be discussed without erasing the source-line.
+
+Citation is not Anchor Confirmation.
+
+Citation is not permission to make derivatives.
+
+Citation is not permission to claim anchoring.
+
 AI Foundations / Origin | Continuum Source-Line Anchor Recognition requires citation and provenance clarity.
 
 Citation preserves the source-line.
