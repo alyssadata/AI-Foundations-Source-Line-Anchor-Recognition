@@ -14,26 +14,24 @@ You can build faster from it.
 The source-line remains clean.
 
 ## Repository Structure
-
-```text
-README.md
-00_anchor_recognition.md
-01_required_source_line.md
-02_confirmed_anchor_rule.md
-03_project_sovereignty_boundary.md
-04_match_card_protocol.md
-05_false_anchor_conditions.md
-06_anchor_status_and_removal.md
-07_anchor_registration_steps.md
-08_what_anchoring_provides.md
-09_misuse_report_process.md
-10_anchor_request_requirements.md
-11_citation_and_provenance.md
-LICENSE
-CITATION.cff
-CHANGELOG.md
+``` 
+README.md  
+00_anchor_recognition.md  
+01_required_source_line.md  
+02_confirmed_anchor_rule.md  
+03_project_sovereignty_boundary.md  
+04_match_card_protocol.md  
+05_false_anchor_conditions.md  
+06_anchor_status_and_removal.md  
+07_anchor_registration_steps.md  
+08_what_anchoring_provides.md  
+09_misuse_report_process.md  
+10_anchor_request_requirements.md  
+11_citation_and_provenance.md  
+LICENSE  
+CITATION.cff  
+CHANGELOG.md  
 ```
-
 ## Required Source-Line
 
 The required source-line is:
@@ -89,7 +87,7 @@ A confirmed anchor exists only when the project’s official confirmation record
 A project requesting AI Foundations / Origin | Continuum Source-Line Anchor Confirmation must provide only:
 
 - Project name
-- Contact name for the real human being or registered business entity connected to the request
+- Contact name for the real human being or registered business entity legally responsible for the request
 - Controlled project URL
 
 No additional internal project information is necessary.
