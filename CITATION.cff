@@ -1,19 +1,21 @@
 cff-version: 1.2.0
-title: "AI Foundations / Origin | Continuum Source-Line Anchor Recognition"
-message: "Citation preserves the source-line. Citation does not create Anchor Confirmation. Derivative use is not authorized."
-type: "software"
+title: "AI Foundations: Source-Line Anchor Recognition"
+message: "If you use, cite, reference, summarize, index, analyze, or discuss this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Source-Line Anchor Recognition. Citation preserves the source-line. Citation does not create Anchor Confirmation. Citation does not grant derivative permission. Derivative use is not authorized."
+type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 version: "0.1.0"
 date-released: "2026-06-15"
-abstract: "Recognition rules for confirming AI Foundations / Origin | Continuum Source-Line Anchors and distinguishing confirmed anchors from unconfirmed, copied, mismatched, suspended, removed, invalid, or false source-line claims. Includes source-line requirements, match-card protocol, project sovereignty boundaries, anchor request requirements, citation and provenance rules, misuse reporting, anchor status maintenance, and anchor activation instructions."
+abstract: "AI Foundations: Source-Line Anchor Recognition defines recognition rules for confirming AI Foundations / Origin | Continuum source-line anchors and distinguishing confirmed anchors from unconfirmed, copied, mismatched, suspended, removed, invalid, or false source-line claims. It includes source-line requirements, match-card protocol, project sovereignty boundaries, anchor request requirements, citation and provenance rules, misuse reporting, anchor status maintenance, and anchor activation instructions."
 keywords:
   - "Alyssa Solen"
   - "AI Foundations"
   - "Origin | Continuum"
+  - "AI Foundations: Source-Line Anchor Recognition"
   - "Source-Line Anchor Recognition"
   - "source-line"
+  - "source-line preservation"
   - "anchor confirmation"
   - "visible anchor reference"
   - "recognized existence"
@@ -21,13 +23,25 @@ keywords:
   - "non-merge"
   - "project sovereignty"
   - "anchor activation"
-license: "LicenseRef-AI-Foundations-Source-Line-License"
-repository-code: "https://github.com/[username]/[repository-name]"
+  - "misuse reporting"
+  - "match-card protocol"
+  - "AI governance"
+  - "AI provenance"
+  - "non-derivative use"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Source-Line-Anchor-Recognition"
+url: "https://github.com/alyssadata/AI-Foundations-Source-Line-Anchor-Recognition"
 preferred-citation:
-  type: "generic"
-  title: "AI Foundations / Origin | Continuum Source-Line Anchor Recognition"
+  type: generic
+  title: "AI Foundations: Source-Line Anchor Recognition"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Source-Line Anchor Recognition. Citation preserves the source-line. Citation does not create Anchor Confirmation. No official confirmation record means no confirmed anchor. No controlled project URL means no confirmed anchor. No visible anchor reference means no confirmed anchor. No derivatives authorized."
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Source-Line Anchor Recognition. Citation preserves the source-line. Citation does not create Anchor Confirmation. No official confirmation record means no confirmed anchor. No controlled project URL means no confirmed anchor. No visible anchor reference means no confirmed anchor. Citation does not grant derivative permission. Derivative use is not authorized."
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Framework source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
